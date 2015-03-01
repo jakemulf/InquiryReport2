@@ -7,4 +7,6 @@ We want to determine the best transitions between 2 songs if we ignore the tempo
 2. How can we ignore tempo in determining a transition?
 
 # Resources
-1. 
+1. [The Infinite Jukebox]
+
+[The Infinite Jukebox]: http://infinitejuke.com
